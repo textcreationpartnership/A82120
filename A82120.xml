@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the army of England, upon their march into Scotland. Signed in the name, and by the appointment of his excellency the Lord General Cromwel, and his councel of officers. Jo: Rushworth Secr' Die Veneris, 19 Julii, 1650. Resolved by the Parliament, that this declaration be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82120</idno>
+            <idno type="STC">Wing D635</idno>
+            <idno type="STC">Thomason E607_20</idno>
+            <idno type="STC">ESTC R205889</idno>
+            <idno type="EEBO-CITATION">99865122</idno>
+            <idno type="PROQUEST">99865122</idno>
+            <idno type="VID">117359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117359)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E607[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the army of England, upon their march into Scotland. Signed in the name, and by the appointment of his excellency the Lord General Cromwel, and his councel of officers. Jo: Rushworth Secr' Die Veneris, 19 Julii, 1650. Resolved by the Parliament, that this declaration be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 19. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Scotland --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117359:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE ARMY OF <hi>ENGLAND,</hi> Upon their March into SCOTLAND.</p>
+            <p>
+               <hi>SIgned in the Name, and by the Appointment of His Excellency the Lord General</hi> Crom<g ref="char:EOLhyphen"/>wel, <hi>and His Councel of Officers.</hi> JO: RUSHWORTH Secr.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Die Veneris,</hi> 19 <hi>Julii,</hi> 1650.</date>
+                     </dateline>
+                  </opener>
+                  <p>REſolved by the Parliament, That this Declaration be forthwith printed and publiſhed.</p>
+                  <closer>
+                     <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Huſband</hi> and <hi>John Field,</hi> Printers to the Parliament of <hi>England. July</hi> 19. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117359:2"/>
+            <pb n="3" facs="tcp:117359:2"/>
+            <head>A Declaration of the Army of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> upon their March into <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>To all that are Saints, and Partakers of the Faith of Gods Elect in</hi> Scotland.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E the Army of <hi>England,</hi> do from the bottom of our Hearts wiſh like <hi>Mercy</hi> and <hi>Truth, Light</hi> and <hi>Liberty</hi> with our ſelves, from God our Fa<g ref="char:EOLhyphen"/>ther, and our Lord Jeſus Chriſt.</p>
+            <p>Although we have no cauſe to doubt, but that the Declaration of the Parliament of the Commonwealth of <hi>England,</hi> bearing date the 26 of <hi>June,</hi> 1650. and publiſhed, to manifeſt to the World the Juſtice and Neceſſity of ſending their Army into <hi>Scotland,</hi> may ſatisfie all im<g ref="char:EOLhyphen"/>partial and unintereſted men in all the Nations round about us (the matters of Fact therein contained being true, and the Concluſions made from thence, and the Reſolutions thereupon taken, agreeable to the Princi<g ref="char:EOLhyphen"/>ples of Religion, Nature and Nations) and therefore it may ſeem to ſome, if not improper, yet ſuperfluous, for us their Army to ſay any more: Yet however, out
+<pb n="4" facs="tcp:117359:3"/>
+of our tenderneſs towards you, whom we look upon as our Brethren, and our deſire to make a diſtinction and ſeparation of you from the reſt, as who through the cunning practiſes of ſome wicked and deſigning men, byaſſed by particular Intereſts, or for want of a true and right Information, and Repreſentation of the great and wonderful Tranſactions wrought amongſt us, and brought to paſs by the meer finger of our God, may poſſibly be ſcandalized at ſome late actions in <hi>England,</hi> and thereby be involved in that common Cauſe, ſo much from Heaven declared againſt, by blaſting all perſons and parties that at any time, in the leaſt, under what pretence or diſguiſe ſoever en<g ref="char:EOLhyphen"/>gaged therein, and ſo with them to become partakers of their Miſeries.</p>
+            <p>We have therefore thought fit to ſpeak to ſome particulars, and that as in the preſence of the Lord (to whoſe Grace, and in the dread of whoſe Name we do moſt humbly Appeal, and who (ſhould we come to a day of Engagement) will be a ſore Witneſs againſt us, if we utter theſe things in hypocriſie, and not out of bowels of love, to perſwade the Hearts and Con<g ref="char:EOLhyphen"/>ſciences of thoſe that are godly in <hi>Scotland</hi>) that ſo they may be withdrawn from partaking in the ſin and puniſhment of evil doers; or that, at leaſt, we might exonerate our ſelves before God and Man, do Remonſtrate as followeth:</p>
+            <p>And for as much as we believe many godly people in <hi>Scotland</hi> are not ſatisfied with the proceedings of this Nation concerning the death of the late King, the rejection of his Iſſue, the change of the Government, and ſeveral actions converſant thereabout. Although
+<pb n="5" facs="tcp:117359:3"/>
+it cannot be ſuppoſed that we ſhall in this Paper meet with all Objections that may be made, (theſe very par<g ref="char:EOLhyphen"/>ticulars alone requiring more lines then we intend in the whole) Yet we briefly ſay, That we were ingaged in a War with the ſaid King, for the Defence of our Religion and Liberties; and how many times Propoſi<g ref="char:EOLhyphen"/>tions for a ſafe and well-grounded Peace were offered to him, and how often he refuſed to conſent thereto, you well know, which according to humane accompt he might have cloſed with, had not the righteous God, who knoweth the deceitful heart of man, and is the preſerver of Mankinde, (eſpecially of his people) in his ſecret judgement, denyed him a heart to aſcent there<g ref="char:EOLhyphen"/>to. By which Refuſals he made it appear, That no<g ref="char:EOLhyphen"/>thing leſs would ſatisfie, then to have it in his own power to deſtroy Religion and Liberties, the ſubver<g ref="char:EOLhyphen"/>ſion whereof he had ſo often attempted: That He was a man guilty of more Innocent Blood in <hi>England, Ireland</hi> and <hi>Scotland,</hi> even of thoſe he ought to have preſerved, as a Father his Children, then any of his predeceſſors, or (we think) then any Hiſtory menti<g ref="char:EOLhyphen"/>oneth, the guilt whereof he brought upon his Family by ſolemn Appeals to God: That the Son did tread in the Fathers ſteps, and purſue his Deſigns, deſtructive to Religion &amp; Liberty: That a party in Parliament, falſe to God and to their truſt, were willing, &amp; did endeavor to betray the Cauſe into the late Kings hands: That a remaining number in Parliament, deſiring to be true to God, and to the People that intruſted them, (out of Integrity of Heart, and fearing that the high Diſplea<g ref="char:EOLhyphen"/>ſure of God would fall upon them if they had not done it) did bring to Juſtice and cauſe to be executed,
+<pb n="6" facs="tcp:117359:4"/>
+the ſaid King; did reject the Perſon now with you, did lay aſide the Houſe of Lords, (an Eſtate not re<g ref="char:EOLhyphen"/>preſenting the People, nor truſted with their Liberties, yet at that time very forward to give up the Peoples Rights, and obſtruct what might ſave them, and al<g ref="char:EOLhyphen"/>ways apt enough to joyn with Kingly Intereſt againſt the Peoples Liberties, whereof we wiſh you have not like ſad experience) and did, for the good of the peo<g ref="char:EOLhyphen"/>ple, reſolve the Government into a Commonwealth. And having done all this, that they are not accountable to any other Nation, is ſufficient to ſay to you, except it be to excite you to rejoyce in this wonderful work of God, and to be thankful to him for ſo much Deli<g ref="char:EOLhyphen"/>verance as you have thereby, and leave the reſt to the <hi>State of England,</hi> to whom it doth onely and properly belong, who have manifeſted their regular proceed<g ref="char:EOLhyphen"/>ings therein, according to the true and equitable intent of the conſtitution of <hi>England,</hi> and the Repreſentors of the people in Parliament, in their ſeveral and reſpe<g ref="char:EOLhyphen"/>ctive Declarations, if they be looked into, to which we refer you. Beſides, it is worthy conſideration, with how many Providences this <hi>Series</hi> of Action hath bin bleſt, which would require a Volumn to recount.</p>
+            <p>If Treaties be urged againſt us, It is eaſie to ſay by whom they were broken, and how eminently, even by the then full Authority of the Parliament of <hi>Scotland,</hi> and the Invaſion by Duke <hi>Hamilton,</hi> and yet that not the firſt breach neither. And if it be ſaid, That hath been proteſted againſt, and revoked ſince; We ask, Doth that make up the breach, ſo as to challenge <hi>Eng<g ref="char:EOLhyphen"/>land</hi> ſtill upon Agreements and Articles; you know, as to Right it doth not, except you ſuppoſe that <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+               <pb n="7" facs="tcp:117359:4"/>
+made their bargain ſo, That <hi>Scotland</hi> might break, and <hi>England</hi> remain bound; whereas it is a known Law of Nations, That in the breach of the League by the one party, the other is no longer obliged.</p>
+            <p>If the Covenant be alleaged againſt us, this may be ſaid by us with honeſty and clearneſs, Religion having therein the firſt place, civil Liberties the next, the Kings Intereſt and conſtitution of Parliament the laſt, and theſe with ſubordination one to another: The Covenant tyed us to preſerve Religion and Liberty, as the ends of it, even when theſe were inconſiſtent with the preſervation of the Kings Intereſt, and the frame of Parliament; becauſe when the means and the end cannot both be enjoyed together, the end is to be preferred before the means. Now that there was a real inconſiſtency between the end and the means, and that the leſſer did fight againſt the greater, is your own judgement, who in a Book of yours, called, <hi>A neceſſary and ſeaſonable Teſtimony againſt Toleration,</hi> ſay thus of the two Houſes, pag. 12. <hi>And doubtleſs, the Lord is highly diſpleaſed with their Proceedings in the Treaty at</hi> Newport, <hi>in reference to Religion and Co<g ref="char:EOLhyphen"/>venant; concerning which, they accepted of ſuch Con<g ref="char:EOLhyphen"/>ceſsions from His Majeſty, as being acquieſced in, were dangerous and deſtructive to both.</hi> Had we not then appeared againſt theſe Conceſſions, and likewiſe againſt thoſe of both Houſes who acquieſced in them, had not Religion and Liberty both been deſtroyed? which now by the bleſſing of God are preſerved. And if that action concerning the Parliament deſerve a Charge, yet leaſt of all from your ſelves, who when you ſaw the Parliament which ſent Duke <hi>Hamilton</hi>
+               <pb n="8" facs="tcp:117359:5"/>
+with an Army into <hi>England,</hi> proceed in ways deſtru<g ref="char:EOLhyphen"/>ctive to Religion and Liberty; you countenanced and acted with thoſe that roſe up for publique Safety, though contrary to Acts of Parliament, and called a new one, excluding whom you thought fit; all which was done by vertue and authority from the Commit<g ref="char:EOLhyphen"/>tee of Eſtates then ſitting at <hi>Edenburgh,</hi> which indeed was no Committee (if you reſpect formalities) (the breach whereof you ſo often charge upon us) being conſtituted of ſuch perſons, as by Act of the forego<g ref="char:EOLhyphen"/>ing Parliament, had not legal right to ſit or act there<g ref="char:EOLhyphen"/>in; they not having taken the Oath (for faithful diſ<g ref="char:EOLhyphen"/>charge of the Truſt repoſed in them, in reference to the late Engagement againſt <hi>England</hi>) injoyned by that Parliament to be taken by every Member of the Committee at his firſt ſitting, or elſe to have no place or vote therein, as is fully ſet down in the Commiſſion for the conſtituting of that Committee of Eſtates. We could more particularly ſet forth how the Com<g ref="char:EOLhyphen"/>mittee of Eſtates there ſitting, according to the li<g ref="char:EOLhyphen"/>teral ſence of the aforementioned Commiſſion, was broken and driven away, by that force raiſed and acted by you as aforeſaid: but we ſpare, not ſeeking to ju<g ref="char:EOLhyphen"/>ſtifie our actions by yours, but to ſhew, that you have done the ſame things for preſervation of Religion and Liberty, which you ſo highly charge as evil upon us. And therefore, we further deſire you ſeriouſly to con<g ref="char:EOLhyphen"/>ſider, That the inconſiſtency of our Religion and Li<g ref="char:EOLhyphen"/>berties, with the Kings Intereſt and former conſtitu<g ref="char:EOLhyphen"/>tion of Parliament, did not ariſe from our jealouſies or pretences, but from the hardneſs of the Kings heart, and the backſliding of the greater part of thoſe
+<pb n="9" facs="tcp:117359:5"/>
+that were intruſted in the Parliament, by their acqui<g ref="char:EOLhyphen"/>eſcing in thoſe Conceſſions, and endeavoring imme<g ref="char:EOLhyphen"/>diately to bring in the King upon them. We therefore reckon it no breach, but a Religious keeping of the Covenant according to the equity thereof; when our Parliament for Religion and Liberties ſake, and the Intereſt of the People, did remove the King and Kingſhip: As alſo we aſſert our ſelves <hi>Keepers of the Covenant,</hi> when the competition hath been between the form and ſubſtance, if we have altered ſome forms of the Government in part, for the ſubſtance ſake.</p>
+            <p>As for the Presbyterial, or any other form of Church Government, they are not by the Covenant to be impoſed by force; yet we do, and are ready to imbrace ſo much as doth or ſhall be made appear to us to be according to the Word of God. Are we to be dealt withal as Enemies, becauſe we come not to your way? Is all Religion wrapt up in that, or any one Form? Doth that name, or thing, give the difference between thoſe that are the Members of Chriſt, and thoſe that are not? We think not ſo. We ſay, Faith working by love, is the true Character of a Chriſtian; and, God is our witneſs, in whomſoever we ſee any thing of Chriſt to be, there we reckon our duty to love, waiting for a more plentiful effuſion of the Spirit of God to make all thoſe Chriſtians, who by the malice of the World are diverſified, and by their own carnal mindedneſs do diverſifie themſelves by ſeveral Names of Re<g ref="char:EOLhyphen"/>proach, to be of one heart and one minde, worſhipping God with one conſent. We are deſirous, That thoſe who are for the Presbyterial Government, ſhould have all freedom to enjoy it; and are perſwaded, That if it
+<pb n="10" facs="tcp:117359:6"/>
+be ſo much of God, as ſome affirm, if God be truſted with his own means, which is his Word powerfully and effectually preached, without a too buſie med<g ref="char:EOLhyphen"/>ling with, or engaging the Authorities of the World, it is able to accompliſh his good pleaſure upon the mindes of men, to produce and eſtabliſh his purpoſes in the World, concerning the Government of his Church. And as for the Blaſphemies and Hereſies wherewith ſome Statiſts amongſt you have labored to brand us; We can ſay, That we do own thoſe ſound Grounds and Principles of the Chriſtian Reli<g ref="char:EOLhyphen"/>gion, preached and held by the generality of godly Miniſters and Chriſtians of theſe later times; abhor<g ref="char:EOLhyphen"/>ring from our hearts, and being ready to bear our witneſs againſt any deteſtable Blaſphemies and He<g ref="char:EOLhyphen"/>reſies lately broken out amongſt us; we have already puniſhed ſome amongſt us for Blaſphemy, and are fur<g ref="char:EOLhyphen"/>ther ready to do it; but how uningeniouſly we have been dealt with by ſome amongſt you, and of our own Countrymen, in heaping Calumnies upon our heads, to render us vile and odious to our Brethren, yea and the whole world, we leave to God to judge, who will, we truſt, in due time make theſe things manifeſt. But were Presbytery thus to be conteſted for, and that in upholding it, all Religion did, and would flouriſh; yet, how improbable it is, That the courſe taken by thoſe in Authority with you, will produce the things you deſire (to ſay no more) let your own experiences a little minde you.</p>
+            <p>What pretenders were ſome Lords and other per<g ref="char:EOLhyphen"/>ſons in the North of <hi>Ireland,</hi> whileſt they mingled the Presbyterian with the Kingly Intereſt; and the Mi<g ref="char:EOLhyphen"/>niſters
+<pb n="11" facs="tcp:117359:6"/>
+by their preaching, ſeduced the people from their Obedience to <hi>England,</hi> under the ſame pretence: But no ſooner had thoſe perſons got the power into their own hands, but they ſhook off the Miniſters, by threatnings, cauſing ſome of them to quit the country, and in general, diſcouraging the exerciſe of the Go<g ref="char:EOLhyphen"/>vernment there, declaring plainly by their actions, that it was but a device to draw on the Royal Intereſt; and thoſe very perſons that did get power into their hands under thoſe pretences, immediately joyned wirh <hi>Owen Roe O Neal,</hi> and thoſe bloody Iriſh Rebels upon the Kingly Intereſt. It will not be unfit to minde you alſo, how the Nobility and ſome of the Miniſters of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> Preaching, and crying up a War againſt <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> under pretence of the Covenant, did thereby lay the foundation to Duke <hi>Hamiltons</hi> getting the command of that Army, who over numbring them in Parliament, power and friends, and by the advantage of Malignants, thruſt all that you could call the good party, out of Power and Authority, himſelf getting the command of that Army into <hi>England,</hi> and leaving his Brother and other Kindred in power in <hi>Scotland:</hi> Thus upon the ſame ground and pretence, to carry on the Kingly Intereſt, have you been twice deceived; and now he is brought in among you, who hath turned every ſtone, and tryed all Friends and Allyes in Foreign parts, endeavored commotions at home by his wicked and Malignant Inſtruments, commiſſioned <hi>Rupert,</hi> the <hi>French,</hi> and all that Pyratical Generation, who do ſpoil, take, plunder and deſtroy our Ships and Trade at Sea, and all to the end he might deſtroy the people of God, and the peace of the Three Nations: And now
+<pb n="12" facs="tcp:117359:7"/>
+being by his Mother, and the Popiſh Intereſts abroad councelled thereto, hath made a compliance with you, as his laſt refuge, who, even whileſt he was treating with you, had his heart ſet upon <hi>Montroſs</hi> and his Ac<g ref="char:EOLhyphen"/>complices (writing Letters, and ſending particular Or<g ref="char:EOLhyphen"/>ders to him) and upon his Popiſh Army in <hi>Ireland,</hi> to whom he had given Commiſſions, and whom he ſtill owned as his faithful Subjects, notwithſtanding all the Innocent Blood by them ſhed; and would never be in<g ref="char:EOLhyphen"/>duced to comply, or cloſe with the Covenant and Preſ<g ref="char:EOLhyphen"/>bytery, till utterly diſappointed of all thoſe his Malig<g ref="char:EOLhyphen"/>nant and Popiſh hopes and confidences.</p>
+            <p>Is there not now juſt cauſe for all good men, with you, to fear, that one ſo bred, ſo engaged and intereſted, and meerly in ſuch a way coming in to you, doth but watch his opportunity (to ſpeak nothing of the weight of the Blood of Saints under the Altar, crying ſtill for Ven<g ref="char:EOLhyphen"/>geance upon him and that Family) till by his influence upon your Army (which you know how compoſed) he may gain his ends upon you; and how likewiſe the ge<g ref="char:EOLhyphen"/>nerality of the people of <hi>Scotland</hi> are affected, is not unworthy of your moſt ſerious conſideration, nor of a friendly intimation from us.</p>
+            <p>But that which moſt awakens us, is, That notwith<g ref="char:EOLhyphen"/>ſtanding all this, and all the wrongs done to <hi>England</hi> from <hi>Scotland,</hi> they refuſe to do us right; ſo that what wrongs ſoever we have, or ſhall ſuſtain, muſt be without remedy, and we alſo without ſecurity for the f<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re; as is ſufficiently expoſtulated in the Parliament of <hi>Englands</hi> Declaration aforementioned, and the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aid of a perpetual War, by taking our grand <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> into your Boſoms, and your Engagement to
+<pb n="13" facs="tcp:117359:7"/>
+Him, in the late Treaty with Him, to reſtore Him to the poſſeſſion of <hi>England</hi> and <hi>Ireland;</hi> and therefore we call Heaven and Earth to witneſs, Whether or no, we have not cauſe to defend our ſelves by hindring the preſent power of <hi>Scotland,</hi> from taking their time and advantage to impoſe thus upon us: And whether they have now any juſt reaſon to wonder at the approach of an Army to their borders, and the taking ſome of their Ships by ours; yea, whether our coming into <hi>Scotland</hi> with an Army, upon ſo clear a ground, be any other, then a juſt and neceſſary defence of our ſelves, for pre<g ref="char:EOLhyphen"/>ſervation of thoſe Rights and Liberties, which divine Providence hath through the expence of ſo much blood and treaſure given us, and thoſe amongſt you have engaged, they will if they can wreſt from us, unleſs it muſt be taken for granted, That the Parliament of <hi>England</hi> ought to ſit ſtill and be ſilent, whileſt their ruine is contrived, their Friends and Brethren deſtroy<g ref="char:EOLhyphen"/>ed by Sea and Land, whom in Conſcience and Duty, both before God and Man, they ought to preſerve.</p>
+            <p>And now we come to ſpeak to all thoſe who are within the compaſs of the Title of this Declaration, That we undertake this buſineſs in the fear of God, with bowels full of love, yea, full of pity to the Inha<g ref="char:EOLhyphen"/>bitants of the Country; and if it ſhall pleaſe God to make <hi>Scotland</hi> ſenſible of the wrongs done to us, and to give to the Commonwealth of <hi>England</hi> a ſatisfying ſecurity againſt future injuries, we ſhall rejoyce. But if that may not be obtained, we ſhall deſire ſuch as fear God, not to joyn or have to do with thoſe who are the Authors and Actors of ſo much evil and miſchief againſt their Neighbors. And we dare ſay, to the praiſe
+<pb n="14" facs="tcp:117359:8"/>
+of God, That that which moves us to this great under<g ref="char:EOLhyphen"/>taking, is not any reliance upon the arm of fleſh, or be<g ref="char:EOLhyphen"/>ing lifted up with the remembrance of former ſucceſſes, or the deſire of accompliſhing any deſignes of our own that we have forelaid, but the full aſſurance we have that our cauſe is juſt and righteous in the fight of God, looking at all precedent changes, and the ſucceſſes that have produced them, not as the work of the policy of ſtrength of man, but as the eminent actings of the Providence and Power of God, to bring forth his good will and pleaſure, concerning the things which he hath determined in the world. And we are confident, that as he hath hitherto gloriouſly appeared, ſo he will ſtill, bearing witneſs to the righteouſneſs of this Cauſe, in great mercy and pity of the infirmities and failings of us his poor Creatures. And we do moſt humbly implore his divine Majeſty to give a merciful teſtimony, whether the actings of divers men amongſt you have not pro<g ref="char:EOLhyphen"/>ceeded from worldly intereſts, together with the ran<g ref="char:EOLhyphen"/>cor and bitterneſs of their ſpirits, who we fear through envy at Inſtruments, have refuſed to acknowledge his hand and goodneſs in the accompliſhment of theſe great changes; and whether ours have not come from the ſimplicity of our and other his poor ſervants hearts, who we truſt, have deſired (though in the midſt of manifold weakneſſes) to follow him in integrity, through difficult paths, having nothing but danger and ruine appearing to the fleſh, and little to encourage us, ſaving thoſe ſignal manifeſtations of his preſence in thoſe high acts of his Providence, and the fear of his Name, leſt he going before, we ſhould not follow.</p>
+            <p>And this we can further adde, That nothing is ſo pre<g ref="char:EOLhyphen"/>dominant within us (next to our duty to God, nor to
+<pb n="15" facs="tcp:117359:8"/>
+betray a cauſe, to which he hath ſo much witneſſed) as the love we have towards thoſe that fear God there, who may poſſibly ſuffer through their own miſtakes, or our diſability to diſtinguiſh in a common calamity, of which Chriſtian love, we hope we gave ſome proof and teſtimony, when we were laſt in <hi>Scotland</hi> with this Army; and were by God made inſtrumental, to break the power of thoſe that then oppreſſed the Godly Party there, and were then ready at their deſire to do every thing on their behalf, which might put them into the ſeat of Authority and Power, whoſe conſciences knows this is true, and for which, this late Act of Engage<g ref="char:EOLhyphen"/>ment to their new King againſt <hi>England,</hi> is no good re<g ref="char:EOLhyphen"/>quital, nor their heaping upon us the reproach of a Sectarian Army, a Chriſtian dealing; all which we do with comfort commend to God, and can notwith<g ref="char:EOLhyphen"/>ſtanding all this, ſay, By the Grace of God, we can forgive and forget thoſe things, and can, and do deſire of God, that the precious in <hi>Scotland,</hi> may be ſeparated from the vile, which is the end of this our Paper. And to the truth of this, let the God of Heaven in his great mercy, pardoning our weakneſſes, judge of us, when we come to meet our Enemies in the field; if through the perverſneſs of any in Authority with you, God ſhall pleaſe to order the deciſion of this Controverſie by the Sword, which we from our hearts, beſeech the Lord to avert, and to give you the like Chriſtian and Brother<g ref="char:EOLhyphen"/>ly affection towards us, which we by Gods grace bear towards you.</p>
+            <closer>
+               <signed>
+                  <hi>Signed in the name, and by the appointment of his Excellency the Lord General</hi> Cromwel, <hi>and his Councel of Officers.</hi> Joh. Ruſhworth, <hi>Secretary.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
